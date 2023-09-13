@@ -1,8 +1,11 @@
 # Hi 👋, I'm maikusobu
 
-## I'm a freedom-loving individual with a passion for learning. 
-### 🎓 I'm currently studying at the University of Information Technology - VNUHCM. 
+## 👋 I'm a freedom-loving individual with a passion for learning. 
+### 🎓 I'm currently studying at the [University of Information Technology - VNUHCM](https://www.uit.edu.vn/). 
+### 💻 My strength is in Typescript and React with 1 year of experience, and
 ### 📚 My favorite pastime is learning English, and I'm currently diving into the world of Python.
+
+
 
 ## Connect with me:
 <p align="left">
@@ -20,7 +23,7 @@
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code></td>
+			<td><code><img width="50" src="https://camo.githubusercontent.com/7104574ca3e9152c260ecccbf1af291b82b15f327a02e57f655b41af049e0e00/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d6f6e676f64622e737667" alt="mongoDB" title="mongoDB"/></code></td>
 		</tr>
 	</table>
 </div>
