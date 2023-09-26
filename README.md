@@ -2,7 +2,7 @@
 
 ## 👋 I'm a freedom-loving individual with a passion for learning. 
 ### 🎓 I'm currently studying at the [University of Information Technology - VNUHCM](https://www.uit.edu.vn/). 
-### 💻 My strength is in Typescript and React with 1 year of experience, and
+### 💻 My strength is in Typescript and React, which I have been using for over a year, and
 ### 📚 My favorite pastime is learning English, and I'm currently diving into the world of Python.
 
 
