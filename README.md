@@ -1,12 +1,5 @@
-# Hi 👋, I'm maikusobu
-
-## 👋 I'm a freedom-loving individual with a passion for learning. 
-### 🎓 I'm currently studying at the [University of Information Technology - VNUHCM](https://www.uit.edu.vn/). 
-### 💻 My strength is in Typescript and React, which I have been using for over a year, and
-### 📚 My favorite pastime is learning English, and I'm currently diving into the world of Python.
-
-
-
+# Hi 👋, This is Maikusobu
+### 🎓 Just a nerd studying at the [University of Information Technology - VNUHCM](https://www.uit.edu.vn/). 
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/loi-nguyen-tan-3885b4163/" target="_blank">
