@@ -1,5 +1,5 @@
 # Hi 👋, This is Maikusobu
-### 🎓 Just a nerd studying at the [University of Information Technology - VNUHCM](https://www.uit.edu.vn/). 
+🎓 Just a nerd studying at the [University of Information Technology - VNUHCM](https://www.uit.edu.vn/). 
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/loi-nguyen-tan-3885b4163/" target="_blank">
