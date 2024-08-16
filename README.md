@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student at UIT<br>
+🔭 I’m currently studying at UIT<br>
 
 
 ## 🌐 Socials:
