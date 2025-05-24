@@ -3,6 +3,7 @@
 Welcome to my GitHub profile!
 
 ## About Me
+- 🏫 I'm studying at University of Information Technology - VNUHCM
 - 💻 I'm a software developer, NLP enjoiyer and passionate AI enthusiast.
 - 🎯 I'm aim to become a software architect.
 - 🌱 I’m currently researching and learning Information Retrieval, CV and System design.
