@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 - 💻 I'm a software developer, NLP enjoiyer and passionate AI enthusiast.
 - 🎯 In 30 years, I want to become a farmer, live in peaceful settlement.
 - 🌱 I’m currently researching and learning Information Retrieval, CV and System design.
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Email-loingtan180%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:loingtan180@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/loingtan180) 
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Email-loingtan180%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:loingtan180@gmail.com) 
 
 ## GitHub Stats
 ![loingtan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loingtan&show_icons=true&theme=radical)
