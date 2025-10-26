@@ -4,7 +4,6 @@ Welcome to my GitHub profile!
 
 ## About Me
 - 🎯 In 30 years, I want to become a farmer, live in a peaceful settlement.
-- Why I'm so stupid!
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Email-loingtan180%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:loingtan180@gmail.com) 
 
 ## GitHub Stats
